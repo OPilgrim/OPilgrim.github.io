@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yunyue Su"
+title                    : "Yunyue Su's Personal HomePage"
 title_separator          : "-"
 name                     : "OPilgrim"
 description              : &description "personal description"
