@@ -13,6 +13,6 @@ I am very fortunate to be advised by [Prof. Qiang Liu](https://scholar.google.co
 
 My research focuses on deep learning, natural language processing, and agent augmentation, particularly in event extraction, fact-checking, graph learning, tool and retrieval-augmented generation. Recently, I have extended my interest to multi-modal foundation models in AI4Science. During my PhD, I aim to advance the reasoning and continual learning capabilities of MLLMs and explore their applications in workflow planning and embodied intelligence.
 
-You can find my CV here: [CV](../assets/YunyuSu.pdf).
+You can find my CV here: [CV](../assets/YunyueSu.pdf).
 
 [Email](yunyue.su@ia.ac.cn) / [Github](https://github.com/OPilgrim) / [Wechat](../images/wechat.png)
