@@ -11,4 +11,4 @@ I'm a Intermediate Engineer from NLPR, [Institute of Automation](https://ia.cas.
 
 My research focuses on deep learning, natural language processing, and agent augmentation, particularly in event extraction, fact-checking, graph learning, tool and retrieval-augmented generation. Recently, I have extended my interest to multi-modal foundation models in AI4Science. Ultimately, I aspire to push foundation models toward real-world interaction—through tool-use via code generation, visual reasoning for scientific tasks, and world modeling for physical or embodied simulation.
 
-I am currently exploring Ph.D. opportunities, and would be excited to explore any potential fit with your ongoing projects. You can find my CV here: [CV](../assets/YunyueSu.pdf). Please feel free to contact me: [Wechat](../images/wechat.png)
+I am currently exploring Ph.D. opportunities, and would be excited to explore any potential fit with your ongoing projects. You can find my CV here: [CV](../assets/YunyueSu.pdf). Please feel free to contact me: [Wechat](../images/wechat.png).
