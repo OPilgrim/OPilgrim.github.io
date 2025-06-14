@@ -13,4 +13,4 @@ My research focuses on deep learning, natural language processing, and agent aug
 
 You can find my CV here: [CV](../assets/YunyueSu.pdf).
 
-[Wechat](../images/wechat.png)
+I am currently exploring Ph.D. opportunities, and would be excited to explore any potential fit with your ongoing projects. Please feel free to contact me: [Wechat](../images/wechat.png)
