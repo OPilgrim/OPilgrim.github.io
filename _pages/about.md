@@ -15,4 +15,4 @@ My research focuses on deep learning, natural language processing, and agent aug
 
 You can find my CV here: [CV](../assets/YunyueSu.pdf).
 
-[Email](yunyue.su@ia.ac.cn) / [Github](https://github.com/OPilgrim) / [Wechat](../images/wechat.png)
+[Wechat](../images/wechat.png)
