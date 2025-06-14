@@ -11,6 +11,6 @@ I'm a Second year Intermediate Engineer from NLPR, [Institute of Automation](htt
 
 I am very fortunate to be advised by [Prof. Qiang Liu](https://scholar.google.com/citations?user=D-lKLcMAAAAJ), [Prof. Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ&hl=en), and [Prof. Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN) of NLPR Lab from Institute of Automation Chinese Academy of Sciences. I was advised by [Prof. Yuanping Chen](https://cnic.cas.cn/sourcedb_cnic_cas/zw/zjrc/dsdw/202107/t20210702_6125751.html) and [Prof. Xiaoqian Zhu](https://scholar.google.com.hk/citations?user=1zMMq0QAAAAJ&hl=zh-CN) from [Computer Network Information Center](https://cnic.cas.cn/), University of Chinese Academy of Sciences, where I obtained my postgraduate degree.
 
-You can find my CV here: [CV](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [CV](../assets/YunyuSu.pdf).
 
-[Email](yunyue.su@ia.ac.cn) / [Github](https://github.com/OPilgrim) / [Wechat](../images/wechat.jpg)
+[Email](yunyue.su@ia.ac.cn) / [Github](https://github.com/OPilgrim) / [Wechat](../images/wechat.png)
